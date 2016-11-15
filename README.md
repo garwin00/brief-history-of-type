@@ -7,3 +7,5 @@
 [Version Three - Nested Lists](https://garwin00.github.io/briefhistoryoftype/history_three.html)
 
 [Version Four - Tables](https://garwin00.github.io/briefhistoryoftype/history_four.html)
+
+[Version Five - Images](https://garwin00.github.io/briefhistoryoftype/history_five.html)
