@@ -15,3 +15,7 @@
 [Version Four - Tables](https://garwin00.github.io/briefhistoryoftype/history_four.html)
 
 [Version Five - Images](https://garwin00.github.io/briefhistoryoftype/history_five.html)
+
+## 28th November
+
+[Version Six - CSS](https://garwin00.github.io/briefhistoryoftype/history_six.html)
